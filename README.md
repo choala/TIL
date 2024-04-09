@@ -1,7 +1,7 @@
 ## TIL
 
 ### introduce
-✨ Today I Learned, 매일 공부한 내용을 기록하는 레포
+> Today I Learned, 매일 공부한 내용을 기록하는 레포
 
 ### contents
 |폴더명|설명|
